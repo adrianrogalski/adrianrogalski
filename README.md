@@ -25,5 +25,5 @@ I'm an Undergaduate Student currently living in Wroclaw, Poland. My goal is to l
 
 <h2>📫 How to reach me:</h2>
 
-<a href="adrianrogalski99@gmail.com">![adrianrogalski99@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/adrianrogalski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="https://www.linkedin.com/in/adrianrogalski/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
