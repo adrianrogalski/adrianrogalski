@@ -9,10 +9,9 @@ I'm Adrian Rogalski
 
 <h2>📚 I'm Currently Learning</h2>
 
-__WSB Wroclaw__
-- Linear Algebra
+__University__
+- Python
 - Calculus II
-- SQL
 
 __SDA__
 - Design Patterns
