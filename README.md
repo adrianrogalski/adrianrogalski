@@ -7,6 +7,9 @@ I'm Adrian Rogalski
 - <i>Currently:</i> BS CS Student.
 - <i>Currently:</i> Java Backend Bootcamp attendee.
 
+<h2>💻 Projects I'm Working On</h2>
+- ISS Tracker
+
 <h2>📚 I'm Currently Learning</h2>
 
 __University__
@@ -18,9 +21,6 @@ __SDA__
 - Hibernate
 - Angular
 - Spring
-
-<h2>💻 Projects I'm Working On</h2>
-- ISS Tracker
 
 <h2> About Me ⚡:</h2>
 
