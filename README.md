@@ -21,7 +21,7 @@ __SDA__
 
 <h2> About Me ⚡:</h2>
 
-I'm an Undergaduate Student currently living in Wroclaw, Poland. My goal is to learn and practice industry level aspects of software development, using backend technologies and Java as tools to advance my programming skills, good practices usage. I like to approach my work with enthusiasm knowing that every day I may gain new valuable knowledge. In my free time I like to read about psychology, cultures and sci-fi. Besides that I love to spend my time with firends and discover new places.
+I'm an Undergaduate Student currently living in Wroclaw, Poland. My goal is to learn and practice industry level aspects of software development, using backend technologies and Java as tools to advance my programming skills, good practices usage. I like to approach my work with enthusiasm knowing that every day I may gain new valuable knowledge.
 
 <h2>📫 How to reach me:</h2>
 
