@@ -17,9 +17,6 @@ __University__
 - Calculus II
 
 __SDA__
-- Design Patterns
-- Hibernate
-- Angular
 - Spring
 
 <h2> About Me ⚡:</h2>
